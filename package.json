@@ -1,0 +1,25 @@
+{
+  "name": "wilcom-tutorial-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "qrcode.react": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1",
+    "framer-motion": "^10.12.16",
+    "lucide-react": "^0.233.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "tailwindcss": "^3.6.4",
+    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.14"
+  }
+}
