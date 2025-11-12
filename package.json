@@ -4,6 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "vite",
+    "engines": {
+  "node": ">=18"
+},
     "build": "vite build",
     "preview": "vite preview"
   },
